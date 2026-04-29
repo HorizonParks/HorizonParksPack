@@ -4,8 +4,7 @@
 	"textures": {
 		"1": "mcicore:block/wdw/epcot/props/main_entrance/epcot_text",
 		"2": "mcicore:block/wdw/epcot/props/main_entrance/epcot_plaque",
-		"3": "mcicore:block/wdw/epcot/props/main_entrance/epcot_sign",
-		"particle": "mcicore:block/wdw/epcot/props/main_entrance/epcot_sign"
+		"3": "mcicore:block/wdw/epcot/props/main_entrance/epcot_sign"
 	},
 	"elements": [
 		{
@@ -73,5 +72,16 @@
 				"down": {"uv": [7, 0, 0, 0], "texture": "#2"}
 			}
 		}
-	]
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 7.75, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 7.25, 0]
+		},
+		"fixed": {
+			"translation": [0, 4, 0]
+		}
+	}
 }
