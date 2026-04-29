@@ -4,7 +4,8 @@
 	"textures": {
 		"1": "mcicore:item/wdw/epcot/props/main_entrance/epcot_text",
 		"2": "mcicore:item/wdw/epcot/props/main_entrance/epcot_plaque",
-		"3": "mcicore:item/wdw/epcot/props/main_entrance/epcot_sign"
+		"3": "mcicore:item/wdw/epcot/props/main_entrance/epcot_sign",
+		"particle": "mcicore:item/wdw/epcot/props/main_entrance/epcot_sign"
 	},
 	"elements": [
 		{
