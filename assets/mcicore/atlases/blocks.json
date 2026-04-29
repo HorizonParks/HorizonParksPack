@@ -4,26 +4,6 @@
       "type": "directory",
       "source": "block",
       "prefix": "block/"
-    },
-    {
-      "type": "directory",
-      "source": "props",
-      "prefix": "props/"
-    },
-    {
-      "type": "directory",
-      "source": "food",
-      "prefix": "food/"
-    },
-    {
-      "type": "directory",
-      "source": "rides",
-      "prefix": "rides/"
-    },
-    {
-      "type": "directory",
-      "source": "cosmetics",
-      "prefix": "cosmetics/"
     }
   ]
 }

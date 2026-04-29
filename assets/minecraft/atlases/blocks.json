@@ -1,39 +1,10 @@
 {
   "sources": [
-    {
-      "type": "directory",
-      "source": "mci",
-      "prefix": "mci/"
-    },
+    
     {
       "type": "directory",
       "source": "block",
       "prefix": "block/"
-    },
-    {
-      "type": "directory",
-      "source": "rides",
-      "prefix": "rides/"
-    },
-    {
-      "type": "directory",
-      "source": "ui",
-      "prefix": "ui/"
-    },
-    {
-      "type": "directory",
-      "source": "npcs",
-      "prefix": "npcs/"
-    },
-    {
-      "type": "directory",
-      "source": "food",
-      "prefix": "food/"
-    },
-    {
-      "type": "directory",
-      "source": "cosmetics",
-      "prefix": "cosmetics/"
     }
   ]
 }
