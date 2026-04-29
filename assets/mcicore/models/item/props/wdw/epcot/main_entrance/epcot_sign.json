@@ -2,9 +2,9 @@
 	"format_version": "1.21.11",
 	"credit": "made by bellymustache for horizonparks",
 	"textures": {
-		"1": "mcicore:block/wdw/epcot/props/main_entrance/epcot_text",
-		"2": "mcicore:block/wdw/epcot/props/main_entrance/epcot_plaque",
-		"3": "mcicore:block/wdw/epcot/props/main_entrance/epcot_sign"
+		"1": "mcicore:item/wdw/epcot/props/main_entrance/epcot_text",
+		"2": "mcicore:item/wdw/epcot/props/main_entrance/epcot_plaque",
+		"3": "mcicore:item/wdw/epcot/props/main_entrance/epcot_sign"
 	},
 	"elements": [
 		{
