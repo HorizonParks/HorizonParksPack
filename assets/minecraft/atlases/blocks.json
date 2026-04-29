@@ -17,11 +17,6 @@
     },
     {
       "type": "directory",
-      "source": "wdw",
-      "prefix": "wdw/"
-    },
-    {
-      "type": "directory",
       "source": "ui",
       "prefix": "ui/"
     },
