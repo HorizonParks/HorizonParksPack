@@ -1,8 +1,0 @@
-{
-    "parent": "custom/cosmetics/hardhats/base",
-	"textures": {
-		"0": "item/custom/cosmetics/hardhats/pr",
-		"1": "item/logo",
-		"particle": "item/custom/cosmetics/hardhats/pr"
-	}
-}
